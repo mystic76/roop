@@ -2,7 +2,7 @@
 lscpu
 sleep 5
 clear
-!echo "Starting Roop-Unleashed"
+echo "Starting Roop-Unleashed"
 sleep 2
 echo "installing packages from"
 echo "github.com/abhiram79/"
